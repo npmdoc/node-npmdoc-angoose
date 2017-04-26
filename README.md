@@ -1,6 +1,6 @@
 # npmdoc-angoose
 
-#### api documentation for  [angoose (v0.3.21)](https://github.com/tjworks/angoose)  [![npm package](https://img.shields.io/npm/v/npmdoc-angoose.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angoose.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angoose)
+#### basic api documentation for  [angoose (v0.3.21)](https://github.com/tjworks/angoose)  [![npm package](https://img.shields.io/npm/v/npmdoc-angoose.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angoose.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angoose)
 
 #### Angoose is a Remote Method Invocation module that comes with built-in mongoose/angular support. Now you can call server side module in browser just like you're in the server side!
 
@@ -83,7 +83,8 @@
     "scripts": {
         "test": "test"
     },
-    "version": "0.3.21"
+    "version": "0.3.21",
+    "bin": {}
 }
 ```
 
